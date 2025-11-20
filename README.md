@@ -14,7 +14,7 @@ It demonstrates end-to-end analysis using **Excel, SQL, Power BI, and Tableau** 
 - Pivot tables, charts & summary findings  
 
 ### 🔹 2. SQL – Analytical Insights
-- 24 SQL queries  
+- 23 SQL queries  
 - Joins, subqueries, window functions, aggregations  
 - Module-wise tasks & query results  
 
